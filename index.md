@@ -7,7 +7,7 @@ I am a Computer Science Major and I plan on graduating in 2029
 
 * Lab 6 Part 2 (Blackjack):
 
-  This was my favorite lab because the entire concept and project was fun to code. Making a functioning blackjack game was a bit of a challenge, but while also being quite fun. By using if statements to      implement functions, the game came together to become a functional and fun blackjack game. It worked so well that I actually was able to play it with a friend.
+  This was my favorite lab because the entire concept and project was fun to code. Making a functioning blackjack game was a bit of a challenge, but while also being quite fun. By using if statements to      implement functions, the game came together to become a functional and fun blackjack game. This game taught me a lot about loops and feedback. Making decisions in the code based on what the user deos. It worked so well that I actually was able to play it with a friend.
 
 * Lab 4 Part 2 (HiLo game):
 
